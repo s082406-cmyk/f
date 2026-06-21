@@ -1,0 +1,6 @@
+{
+  "name": "AdSense Optimized Blog",
+  "description": "An elegant, AdSense-ready content hub with direct ad placement management, automated ads.txt serving, standard compliant legal templates, and detailed monetization approval guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
